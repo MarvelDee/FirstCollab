@@ -57,6 +57,7 @@ namespace MyFirstProj
             double another = ans * 3;
             MessageBox.Show(ans.ToString());
             decimal total = ((decimal)tubil + (decimal)perLiter + (decimal)discount);
+            MessageBox.Show(total.ToString());
         }
 
         private void button1_Click(object sender, EventArgs e)

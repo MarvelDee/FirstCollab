@@ -44,7 +44,7 @@ namespace MyFirstProj
             // 
             this.showBtn.BackColor = System.Drawing.Color.DarkSlateGray;
             this.showBtn.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.showBtn.Location = new System.Drawing.Point(366, 231);
+            this.showBtn.Location = new System.Drawing.Point(468, 208);
             this.showBtn.Name = "showBtn";
             this.showBtn.Size = new System.Drawing.Size(114, 50);
             this.showBtn.TabIndex = 0;
@@ -117,7 +117,7 @@ namespace MyFirstProj
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(587, 293);
+            this.ClientSize = new System.Drawing.Size(587, 262);
             this.Controls.Add(this.ShowRecord);
             this.Controls.Add(this.transactions);
             this.Controls.Add(this.label2);
