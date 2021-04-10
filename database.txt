@@ -1,0 +1,25 @@
+﻿
+Language = C#
+Rules and conventions
+
+--------------------
+Variable - Hold information padung sa imong RAM
+
+Sentence asdhajskdakjdsadaskjsakj.
+
+DATATYPE VARIABLENAME = VALUE;
+
+DaTATYPES
+
+char -  unicode character -> B
+string - series of unicode char -> Name, Lastname
+
+-------------
+NUMERIC TYPES
+
+int - signed Whole Number 32bit
+float
+double
+decimal
+long
+short
